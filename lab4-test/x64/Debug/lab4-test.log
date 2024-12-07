@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\User\Desktop\Univ\SysProgKyrs\Lab4\lab4-test\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+C:\Users\User\Desktop\Univ\SysProgKyrs\Lab4\lab4-test\stringProcessor.h(25,12): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  lab4-test.vcxproj -> C:\Users\User\Desktop\Univ\SysProgKyrs\Lab4\lab4-test\x64\Debug\lab4-test.exe
